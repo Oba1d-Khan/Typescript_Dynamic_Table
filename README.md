@@ -1,1 +1,1 @@
-# Typescript_Dynamic_Table
+# Typescript Dynamic Table
